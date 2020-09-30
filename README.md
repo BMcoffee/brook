@@ -3,4 +3,5 @@
 增加对动态域名的支持，开启监控后自动更新域名IP
 
 wget https://raw.githubusercontent.com/BMcoffee/brook/master/brook-pf-mod.sh
+
 bash brook-pf-mod.sh
