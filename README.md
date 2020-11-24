@@ -4,10 +4,14 @@
 
 
 #国内机器用
+
 wget https://raw.githubusercontent.com/BMcoffee/brook/master/brook-pf-mod-inside.sh
+
 bash brook-pf-mod-inside.sh
 
 
 #国外机器用
+
 wget https://raw.githubusercontent.com/BMcoffee/brook/master/brook-pf-mod-outside.sh
+
 bash brook-pf-mod-outside.sh
